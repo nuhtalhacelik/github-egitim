@@ -14,6 +14,7 @@ selam git
 >git remote add origin https://github.com/talhace10/github-egitim.git //github ile local repomuzu eşledik
 
 >git push -u origin main //originden main brache yani github serverlarına vveri pushladık
+// push yapmadan önce pull yapmak iyi olur bizden başka biri commit yptıysa onun güncellemelerini alıp pushlamış oluruz sıkıntı çıkmaz
 
 
 =======
