@@ -10,8 +10,17 @@ selam git
 
 >git branh -M main //master olan bracngi main yaptık git bunu istiyor
 
+<<<<<<< HEAD
 >git remote add origin https://github.com/talhace10/github-egitim.git //github ile local repomuzu eşledik
 
 >git push -u origin main //originden main brache yani github serverlarına vveri pushladık
 
 
+=======
+// artık şifre ile işlem yapılmadıgı için settings/developer'dan bir token oluşturuyorsun ve origini bu token yapıyorsun öyle pushluyoruz
+
+>git remote set-url origin https://{github-username}:{token}@{git-url}
+//git remote set-url origin https://yusufborucu:ghp_abcd1234@github.com/yusufborucu/test.git
+
+>git push -u origin main //origini maine pushladık ve artık githubımızda gözüküyor güncellemeler
+>>>>>>> a51deee6eda742957fa576b3b7f5e05adee1761f
