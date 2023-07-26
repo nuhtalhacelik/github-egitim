@@ -8,5 +8,5 @@ selam git
 
 >git commit -m "first commit" //ile git veri tabnına yaptıgım işlemi tanımlıyoruz hep -m kullancaz
 
->
+>git branh -M main //master olan bracngi main yaptık git bunu istiyor
 
