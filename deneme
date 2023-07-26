@@ -10,3 +10,9 @@ selam git
 
 >git branh -M main //master olan bracngi main yaptık git bunu istiyor
 
+// artık şifre ile işlem yapılmadıgı için settings/developer'dan bir token oluşturuyorsun ve origini bu token yapıyorsun öyle pushluyoruz
+
+>git remote set-url origin https://{github-username}:{token}@{git-url}
+//git remote set-url origin https://yusufborucu:ghp_abcd1234@github.com/yusufborucu/test.git
+
+>git push -u origin main //origini maine pushladık ve artık githubımızda gözüküyor güncellemeler
