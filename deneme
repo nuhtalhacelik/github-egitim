@@ -10,3 +10,8 @@ selam git
 
 >git branh -M main //master olan bracngi main yaptık git bunu istiyor
 
+>git remote add origin https://github.com/talhace10/github-egitim.git //github ile local repomuzu eşledik
+
+>git push -u origin main //originden main brache yani github serverlarına vveri pushladık
+
+

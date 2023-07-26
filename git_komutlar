@@ -1,0 +1,11 @@
+git status: dosyalarınstatusunu gösteriyor eger kırmızı ise add yapılmamış yani gite eklemek için dizine eklenmemiş commit yapamayız yeşil ise add yapılmış demek
+
+git add */dosyadı/*.java //java dosyalarının hepsini ekler vs stage kısmına alıyoruz
+
+git commit -m "sadasd" // save to local repo local repoyu günceller
+
+git push origin master // ya da branch ismini degistirdiysek main save to remote repo buluttaki repoyu günceller
+
+git pull // get from remote repo
+
+
