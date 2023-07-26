@@ -1,0 +1,12 @@
+selam git
+
+>git init // ile dosyamızı github ile eşliyoruz aynı isimde olacak
+
+>git status //ile durumu öğren: Kırmızı ile commitlenmeye hazır değil git add * yapıcaz
+
+>git add * //ile commite hzır hale getiriyoruz
+
+>git commit -m "first commit" //ile git veri tabnına yaptıgım işlemi tanımlıyoruz hep -m kullancaz
+
+>
+
